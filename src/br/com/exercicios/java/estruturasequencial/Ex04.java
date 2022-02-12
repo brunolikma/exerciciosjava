@@ -19,5 +19,7 @@ public class Ex04 {
         double media = (nota1 + nota2 + nota3 + nota4) / 4;
 
         System.out.println("A media do Aluno foi de: " + media);
+
+        sc.close();
     }
 }

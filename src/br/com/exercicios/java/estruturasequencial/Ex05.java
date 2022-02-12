@@ -11,5 +11,7 @@ public class Ex05 {
         int metros = sc.nextInt();
 
         System.out.println("A quantidade de " + metros + " metros em centimetros é de: " + (metros * 100) + "cm !" );
+
+        sc.close();
     }
 }
